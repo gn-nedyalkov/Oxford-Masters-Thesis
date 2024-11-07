@@ -1,3 +1,3 @@
-# Oxford-Masters-Thesis
+# Master's Thesis
 
 KKKK

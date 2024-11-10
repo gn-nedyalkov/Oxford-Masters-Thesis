@@ -1,6 +1,6 @@
 # Master's Thesis
 
-This page contains code pipelines I've developed for my final-year thesis as part of my Master in Chemistry at the University of Oxford. 
+This page contains code pipelines I've developed for my final-year thesis as part of my MChem degree at the University of Oxford. 
 
 ## References
 
